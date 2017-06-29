@@ -1,0 +1,3 @@
+reward=abs(delta)
+x=np.argmin(rewards)
+rewards[x]=1000
